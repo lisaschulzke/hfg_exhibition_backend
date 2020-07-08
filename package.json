@@ -1,0 +1,19 @@
+{
+  "name": "hfg_exhibition_backend",
+  "version": "1.0.0",
+  "description": "backend to frontend hfg_exhibition",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaschulzke/hfg_exhibition_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisaschulzke/hfg_exhibition_backend/issues"
+  },
+  "homepage": "https://github.com/lisaschulzke/hfg_exhibition_backend#readme"
+}
